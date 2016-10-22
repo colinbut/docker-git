@@ -1,6 +1,6 @@
 # Docker Git
 
-A docker container image for SonarQube
+A docker container image for Git
 
 To use, just build the docker image
 
